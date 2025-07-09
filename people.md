@@ -4,7 +4,7 @@ permalink: /people/
 ---
 
 <div class="text-center">
-  <img src="uu-nlp.github.io/assets/images/anhdang.jpg" class="img-thumbnail" alt="Ảnh Đăng">
+  <img src="images/anhdang.jpg" class="img-thumbnail" alt="Ảnh Đăng">
   <div class="mt-2">
     <a href="/about/" class="text-decoration-none">PhD Candidate</a>
   </div>
