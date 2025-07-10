@@ -4,5 +4,5 @@ permalink: /people/
 ---
 
 
-<img src="assets/images/anhdang.JPG" class="img-thumbnail" alt="anhd">
+<img src="../assets/images/anhdang.JPG" class="img-thumbnail" alt="anh">
  
