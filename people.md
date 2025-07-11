@@ -5,5 +5,5 @@ permalink: /people/
 ---
 
 
-<img src="/assets/images/anhdang.jpg" class="img-thumbnail" alt="anh">
+<img src="/assets/images/nha.jpg" class="img-thumbnail" alt="anh">
  
