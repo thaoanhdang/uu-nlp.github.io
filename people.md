@@ -5,6 +5,6 @@ permalink: /people/
 ---
 
 
-<img src="{{ '/assets/images/anhdang.jpg' | relative_url }}" class="img-thumbnail" alt="anh2">
+<img src="{{ 'assets/images/anhdang.jpg' | relative_url }}" class="img-thumbnail" alt="anh2">
 
  
