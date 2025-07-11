@@ -5,5 +5,5 @@ permalink: /people/
 ---
 
 
-<img src="/assets/images/nha.jpg" class="img-thumbnail" alt="anh">
+<img src="/uu-nlp.github.io/assets/images/nha.jpg" class="img-thumbnail" alt="anh">
  
