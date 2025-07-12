@@ -29,7 +29,6 @@ permalink: /people/
       Dealing with Meaning Variation
     <div>
   <div>
-  
   <div class="row text-center">
   <!-- Person 1 -->
   <div class="col-md-6 mb-4">
@@ -46,7 +45,7 @@ permalink: /people/
     <img src="{{ 'assets/images/albert.jpg' | relative_url }}" class="img-thumbnail rounded"
          style="width: 150px; height: 150px; object-fit: cover;" alt="albert">
     <div class="mt-2 p-2 rounded bg-light">
-      <strong>Anh Dang</strong><br>
+      <strong>Albert Gatt</strong><br>
       Dealing with Meaning Variation
     </div>
   </div>
