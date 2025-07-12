@@ -17,7 +17,6 @@ permalink: /people/
         Dealing with Meaning Variation
       </div>
     </div>
-    <div class="row text-center">
     <div class="col-md-4 mb-4">
       <img src="{{ 'assets/images/cantao.jpg' | relative_url }}" class="img-thumbnail rounded" style="width: 150px; height: 150px; object-fit: cover;" alt="cantao">
       <div class="mt-2 p-2 rounded bg-light">
