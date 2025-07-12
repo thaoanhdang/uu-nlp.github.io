@@ -27,7 +27,7 @@ permalink: /people/
     <div class="mt-2 p-2 rounded bg-light">
       <strong>Anh Dang</strong><br>
       Dealing with Meaning Variation
-   <div class="row text-center">
+  <div class="row text-center">
   <!-- Person 1 -->
   <div class="col-md-6 mb-4">
     <img src="{{ 'assets/images/nanli.jpg' | relative_url }}" class="img-thumbnail rounded"
