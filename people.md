@@ -11,7 +11,7 @@ permalink: /people/
   <h3>PhD Candidate</h3>
   <div class="row text-center">
     <div class="col-md-4 mb-4">
-      <img src="assets/images/anhdang.jpg" class="img-thumbnail rounded" style="width: 150px; height: 150px; object-fit: cover;" alt="Anh Dang">
+      <img src="{{ 'assets/images/anhdang.jpg' | relative_url }} class="img-thumbnail rounded style="width: 150px; height: 150px; object-fit: cover;" alt="Anh Dang">
       <div class="mt-2 p-2 rounded bg-light">
         <strong>Anh Dang</strong><br>
         Dealing with Meaning Variation
