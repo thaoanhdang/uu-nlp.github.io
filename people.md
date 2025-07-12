@@ -27,6 +27,9 @@ permalink: /people/
     <div class="mt-2 p-2 rounded bg-light">
       <strong>Anh Dang</strong><br>
       Dealing with Meaning Variation
+    <div>
+  <div>
+  
   <div class="row text-center">
   <!-- Person 1 -->
   <div class="col-md-6 mb-4">
