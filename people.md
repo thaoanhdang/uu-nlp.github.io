@@ -49,7 +49,44 @@ permalink: /people/
       </div>
     </div>
   </div>
+  <div class="row text-center">
+    <!-- Person 3 -->
+    <div class="col-md-6 mb-4">
+      <img src="{{ 'assets/images/yupei.jpg' | relative_url }}" class="img-thumbnail rounded"
+           style="width: 150px; height: 150px; object-fit: cover;" alt="yupei">
+      <div class="mt-2 p-2 rounded bg-light">
+        <strong>Yupei Du</strong><br>
+        NLP and Society
+      </div>
+    </div>
+    <div class="col-md-6 mb-4">
+      <img src="{{ 'assets/images/hughmee.jpg' | relative_url }}" class="img-thumbnail rounded"
+           style="width: 150px; height: 150px; object-fit: cover;" alt="hughmee">
+      <div class="mt-2 p-2 rounded bg-light">
+        <strong>Shane Kaszefski</strong><br>
+        Dealing with Meaning Variation
+      </div>
+    </div>
+  </div>  
+  <div class="col-md-6 mb-4">
+      <img src="{{ 'assets/images/carlo.jpg' | relative_url }}" class="img-thumbnail rounded"
+           style="width: 150px; height: 150px; object-fit: cover;" alt="carlo">
+      <div class="mt-2 p-2 rounded bg-light">
+        <strong>Eduardo Calò</strong><br>
+        Multimodal AI
+      </div>
+    </div>
+    <div class="col-md-6 mb-4">
+      <img src="{{ 'assets/images/daniil.jpg' | relative_url }}" class="img-thumbnail rounded"
+           style="width: 150px; height: 150px; object-fit: cover;" alt="daniil">
+      <div class="mt-2 p-2 rounded bg-light">
+        <strong>Daniil Ignatev</strong><br>
+        Dealing with Meaning Variation
+      </div>
+    </div>
+  </div>  
 </div>
+
 
 
 
