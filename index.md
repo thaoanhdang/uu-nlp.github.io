@@ -39,14 +39,11 @@ In our research, we collaborate with a broad network of researchers, including c
 
 
 
-<div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
-  <div class="card-header">Contact</div>
-  <div class="card-body">
-    <h4 class="card-title">prof. dr. A. (Albert) Gatt</h4>
-    <p class="card-text">Professor</p>
-    <p class="card-text">Programme Director</p>
-    <p class="card-text">Email: a.gatt@uu.nl</p>
-  </div>
+## Contact
+**prof. dr. A. (Albert) Gatt**
+Professor
+Programme Director
+Email: a.gatt@uu.nl
 
 
 
