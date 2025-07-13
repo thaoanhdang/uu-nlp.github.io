@@ -60,8 +60,8 @@ permalink: /people/
       </div>
     </div>
     <div class="col-md-6 mb-4">
-      <img src="{{ 'assets/images/hughmee.jpg' | relative_url }}" class="img-thumbnail rounded"
-           style="width: 150px; height: 150px; object-fit: cover;" alt="hughmee">
+      <img src="{{ 'assets/images/shane.jpg' | relative_url }}" class="img-thumbnail rounded"
+           style="width: 150px; height: 150px; object-fit: cover;" alt="shane">
       <div class="mt-2 p-2 rounded bg-light">
         <strong>Shane Kaszefski</strong><br>
         Dealing with Meaning Variation
