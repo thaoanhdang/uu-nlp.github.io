@@ -68,7 +68,8 @@ permalink: /people/
       </div>
     </div>
   </div>  
-  <div class="col-md-6 mb-4">
+  <div class="row text-center">
+    <div class="col-md-6 mb-4">
       <img src="{{ 'assets/images/carlo.jpg' | relative_url }}" class="img-thumbnail rounded"
            style="width: 150px; height: 150px; object-fit: cover;" alt="carlo">
       <div class="mt-2 p-2 rounded bg-light">
