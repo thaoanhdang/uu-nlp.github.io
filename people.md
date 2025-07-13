@@ -6,8 +6,9 @@ permalink: /people/
 
 
 <!-- <img src="{{ 'assets/images/anhdang.jpg' | relative_url }}" class="img-thumbnail" alt="anh2"> -->
-
-<div class="container">
+{::nomarkdown}
+<div class="container style="margin-top: 60px; margin-bottom: 60px; padding-left: 200px; padding-right: 200px;"">
+{:/}
   <h3>Professors</h3>
 
   <!-- First row -->
@@ -129,4 +130,6 @@ permalink: /people/
     </div>
   </div>  
 </div>
-
+{::nomarkdown}
+</div>
+{:/}
