@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 {::nomarkdown}
-<div class="container" style="margin-top: 80px; margin-bottom: 80px; padding-left: 150px; padding-right: 150px;">
+<div class="container" style="margin-top: 60px; margin-bottom: 60px; padding-left: 200px; padding-right: 200px;">
 {:/}
 
 ## Natural Language Processing Group
