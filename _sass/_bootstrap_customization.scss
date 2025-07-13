@@ -12,6 +12,9 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,
   @import url("#{$web-font-path}");
 }
 
+$font-family-base: 'Cormorant', serif;
+$headings-font-family: 'Cormorant', serif;
+
 // Navbar
 
 .navbar {
