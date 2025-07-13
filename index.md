@@ -6,7 +6,8 @@ title: ""
 <div class="container" style="margin-top: 80px; margin-bottom: 80px; padding-left: 150px; padding-right: 150px;">
 {:/}
 
-# Natural Language Processing Group at Utrecht University
+## Natural Language Processing Group
+### Utrecht University 
 
 <img src="{{ 'assets/images/logo.png' | relative_url }}" class="img-thumbnail" alt="logo">
 
