@@ -69,6 +69,7 @@ permalink: /people/
            style="width: 150px; height: 150px; object-fit: cover;" alt="anhdang">
       <div class="mt-2 p-2 rounded bg-light">
         <strong>Anh Dang</strong><br>
+        t.t.a.dang@uu.nl
         Dealing with Meaning Variation
       </div>
     </div>
