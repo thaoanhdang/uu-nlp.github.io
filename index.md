@@ -19,8 +19,9 @@ In our research, we collaborate with a broad network of researchers, including c
 
 
 ## News
-<div class="alert alert-dismissible alert-primary">
-  <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
-  <strong>Oh snap!</strong> <a href="#" class="alert-link">Three papers were accepted to ACL 2025!
-</div>
+* We are at ACL 2025 at Vienna!
+
+## Research Groups
+
+## Events
 
