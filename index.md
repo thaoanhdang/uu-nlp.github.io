@@ -41,8 +41,11 @@ In our research, we collaborate with a broad network of researchers, including c
 
 ## Contact
 **prof. dr. A. (Albert) Gatt**
+
 Professor
+
 Programme Director
+
 Email: a.gatt@uu.nl
 
 
