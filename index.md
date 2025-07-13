@@ -3,7 +3,7 @@ layout: page
 title: Natural Language Processing Group at Utrecht University
 ---
 {::nomarkdown}
-<div class="container mt-5 mb-5 px-4">
+<div class="container" style="margin-top: 80px; margin-bottom: 80px; padding-left: 80px; padding-right: 80px;">
 {:/}
 
 ## About Us
@@ -23,10 +23,7 @@ In our research, we collaborate with a broad network of researchers, including c
 
 ## News
 
-<div class="alert alert-dismissible alert-danger">
-  <button type="button" class="btn-close" data-bs-dismiss="2025"></button>
-  <strong>2025</strong> <a href="#" class="alert-link">We're at ACL 2025 in Vienna!
-</div>
+* We're at ACL 2025 in Vienna!
 
 
 ## Research Groups
