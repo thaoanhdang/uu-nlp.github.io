@@ -1,6 +1,6 @@
 ---
 layout: page
-title: People
+title: ""
 permalink: /people/
 ---
 
@@ -9,7 +9,8 @@ permalink: /people/
 {::nomarkdown}
 <div class="container" style="margin-top: 60px; margin-bottom: 60px; padding-left: 200px; padding-right: 200px;">
 {:/}
-  <h3>Professors</h3>
+  <h3>People</h3>
+  <h2>Professors</h2>
 
   <!-- First row -->
   <div class="row text-center">
@@ -51,7 +52,7 @@ permalink: /people/
     </div>
   </div>
 
-  <h3>PhD Candidate</h3>
+  <h2>PhD Candidates</h2>
 
   <!-- First row -->
   <div class="row text-center">
