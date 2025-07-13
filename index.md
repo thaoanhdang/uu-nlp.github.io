@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Natural Language Processing Group at Utrecht University
+title: ""
 ---
 {::nomarkdown}
-<div class="container" style="margin-top: 80px; margin-bottom: 80px; padding-left: 130px; padding-right: 130px;">
+<div class="container" style="margin-top: 80px; margin-bottom: 80px; padding-left: 150px; padding-right: 150px;">
 {:/}
+
+# Natural Language Processing Group at Utrecht University
 
 ## About Us
 
