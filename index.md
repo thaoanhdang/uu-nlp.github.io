@@ -7,7 +7,7 @@ title: Natural Language Processing Group at Utrecht University
 
 <img src="{{ 'assets/images/logo.png' | relative_url }}" class="img-thumbnail" alt="logo">
 
-Welcome to the homepage of UU-NLP, the Natural Language Processing Group in the **Department of Information and Computing Science** at **Utrecht University**. We are a highly interdisciplinary team working on computational models of Natural Language, led by [Albert Gatt](https://albertgatt.github.io/). 
+Welcome to the homepage of UU-NLP, the Natural Language Processing Group in the `Department of Information and Computing Science` at `Utrecht University`. We are a highly interdisciplinary team working on computational models of Natural Language, led by [Albert Gatt](https://albertgatt.github.io/). 
 
 Our work centres around a number of core themes, including:
 Models for automatic text generation and their evaluation;
@@ -31,4 +31,5 @@ In our research, we collaborate with a broad network of researchers, including c
 ## Events
 
 ## Contact Us
+
 
