@@ -3,6 +3,8 @@ layout: page
 title: Natural Language Processing Group at Utrecht University
 ---
 
+<div class="container mt-5 mb-5 px-4">
+
 ## About Us
 
 <img src="{{ 'assets/images/logo.png' | relative_url }}" class="img-thumbnail" alt="logo">
@@ -32,4 +34,6 @@ In our research, we collaborate with a broad network of researchers, including c
 
 ## Contact Us
 
+
+</div>
 
