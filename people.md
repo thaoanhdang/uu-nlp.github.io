@@ -17,7 +17,7 @@ permalink: /people/
       <img src="{{ 'assets/images/albert.jpg' | relative_url }}" class="img-thumbnail rounded"
            style="width: 150px; height: 150px; object-fit: cover;" alt="albert">
       <div class="mt-2 p-2 rounded bg-light">
-        <strong>Albert Gatt</strong><br>
+        <strong>[Albert Gatt](https://albertgatt.github.io/)</strong><br>
         Natual language Generation
       </div>
     </div>
