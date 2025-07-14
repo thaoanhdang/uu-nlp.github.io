@@ -43,7 +43,7 @@ permalink: /people/
       </div>
     </div>
     <div class="col-md-6 mb-4">
-      <img src="{{ 'assets/images/hughmee.jpg' | relative_url }}" class="img-thumbnail rounded"
+      <img src="{{ 'assets/images/marin.jpg' | relative_url }}" class="img-thumbnail rounded"
            style="width: 150px; height: 150px; object-fit: cover;" alt="hughmee">
       <div class="mt-2 p-2 rounded bg-light">
         <strong>Marijn Schraagen</strong><br>
@@ -51,7 +51,44 @@ permalink: /people/
       </div>
     </div>
   </div>
+  <div class="row text-center">
+    <!-- Person 3 -->
+    <div class="col-md-6 mb-4">
+      <img src="{{ 'assets/images/pablo.jpg' | relative_url }}" class="img-thumbnail rounded"
+           style="width: 150px; height: 150px; object-fit: cover;" alt="pablo">
+      <div class="mt-2 p-2 rounded bg-light">
+        <strong>Dr. Pablo Mosteiro Romero</strong><br>
+        Methodology and Statistics<br>
+      </div>
+    </div>
+    <div class="col-md-6 mb-4">
+      <img src="{{ 'assets/images/marin.jpg' | relative_url }}" class="img-thumbnail rounded"
+           style="width: 150px; height: 150px; object-fit: cover;" alt="hughmee">
+      <div class="mt-2 p-2 rounded bg-light">
+        <strong>Marijn Schraagen</strong><br>
+        Dealing with Meaning Variation
+  <h2>Postdocs</h2>
 
+  <!-- First row -->
+  <div class="row text-center">
+    <!-- Person 1 -->
+    <div class="col-md-6 mb-4">
+      <img src="{{ 'assets/images/ece.jpg' | relative_url }}" class="img-thumbnail rounded"
+           style="width: 150px; height: 150px; object-fit: cover;" alt="ece">
+      <div class="mt-2 p-2 rounded bg-light">
+        <strong>Ece Takmaz</strong><br>
+        Natual language Generation
+      </div>
+    </div>
+    <div class="col-md-6 mb-4">
+      <img src="{{ 'assets/images/anna.jpg' | relative_url }}" class="img-thumbnail rounded"
+           style="width: 150px; height: 150px; object-fit: cover;" alt="anna">
+      <div class="mt-2 p-2 rounded bg-light">
+        <strong>Anna Wegman</strong><br>
+        NLP and Society
+      </div>
+    </div>
+  </div>
   <h2>PhD Candidates</h2>
 
   <!-- First row -->
