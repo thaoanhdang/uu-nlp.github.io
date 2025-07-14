@@ -46,7 +46,7 @@ permalink: /people/
            style="width: 150px; height: 150px; object-fit: cover;" alt="marijn">
       <div class="mt-2 p-2 rounded bg-light">
         <strong>Marijn Schraagen</strong><br>
-        Dealing with Meaning Variation
+        Vision and Language Modelling
       </div>
     </div>
   </div>
