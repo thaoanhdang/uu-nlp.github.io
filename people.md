@@ -4,23 +4,17 @@ title: ""
 permalink: /people/
 ---
 
-
-<!-- <img src="{{ 'assets/images/anhdang.jpg' | relative_url }}" class="img-thumbnail" alt="anh2"> -->
-{::nomarkdown}
 <div class="container" style="margin-top: 60px; margin-bottom: 60px; padding-left: 200px; padding-right: 200px;">
-{:/}
   <h3>People</h3>
-  <h2>Professors</h2>
 
-  <!-- First row -->
+  <h2>Professors</h2>
   <div class="row text-center">
-    <!-- Person 1 -->
     <div class="col-md-6 mb-4">
       <img src="{{ 'assets/images/albert.jpg' | relative_url }}" class="img-thumbnail rounded"
            style="width: 150px; height: 150px; object-fit: cover;" alt="albert">
       <div class="mt-2 p-2 rounded bg-light">
         <strong>Albert Gatt</strong><br>
-        Natual language Generation
+        Vision and Language Modelling
       </div>
     </div>
     <div class="col-md-6 mb-4">
@@ -32,8 +26,8 @@ permalink: /people/
       </div>
     </div>
   </div>
+
   <div class="row text-center">
-    <!-- Person 3 -->
     <div class="col-md-6 mb-4">
       <img src="{{ 'assets/images/massimo2.jpg' | relative_url }}" class="img-thumbnail rounded"
            style="width: 150px; height: 150px; object-fit: cover;" alt="massimo">
@@ -44,40 +38,41 @@ permalink: /people/
     </div>
     <div class="col-md-6 mb-4">
       <img src="{{ 'assets/images/marin.jpg' | relative_url }}" class="img-thumbnail rounded"
-           style="width: 150px; height: 150px; object-fit: cover;" alt="hughmee">
+           style="width: 150px; height: 150px; object-fit: cover;" alt="marijn">
       <div class="mt-2 p-2 rounded bg-light">
         <strong>Marijn Schraagen</strong><br>
         Dealing with Meaning Variation
       </div>
     </div>
   </div>
+
   <div class="row text-center">
-    <!-- Person 3 -->
     <div class="col-md-6 mb-4">
       <img src="{{ 'assets/images/pablo.jpg' | relative_url }}" class="img-thumbnail rounded"
            style="width: 150px; height: 150px; object-fit: cover;" alt="pablo">
       <div class="mt-2 p-2 rounded bg-light">
         <strong>Dr. Pablo Mosteiro Romero</strong><br>
-        Methodology and Statistics<br>
+        Methodology and Statistics
       </div>
     </div>
     <div class="col-md-6 mb-4">
-      <img src="{{ 'assets/images/marin.jpg' | relative_url }}" class="img-thumbnail rounded"
-           style="width: 150px; height: 150px; object-fit: cover;" alt="hughmee">
+      <img src="{{ 'assets/images/gerad.jpg' | relative_url }}" class="img-thumbnail rounded"
+           style="width: 150px; height: 150px; object-fit: cover;" alt="marijn">
       <div class="mt-2 p-2 rounded bg-light">
-        <strong>Marijn Schraagen</strong><br>
-        Dealing with Meaning Variation
-  <h2>Postdocs</h2>
+        <strong>Gerard Vreeswijk</strong><br>
+        Vision and Language Modelling
+      </div>
+    </div>
+  </div>
 
-  <!-- First row -->
+  <h2>Postdocs</h2>
   <div class="row text-center">
-    <!-- Person 1 -->
     <div class="col-md-6 mb-4">
       <img src="{{ 'assets/images/ece.jpg' | relative_url }}" class="img-thumbnail rounded"
            style="width: 150px; height: 150px; object-fit: cover;" alt="ece">
       <div class="mt-2 p-2 rounded bg-light">
         <strong>Ece Takmaz</strong><br>
-        Natual language Generation
+        Vision and Language Modelling
       </div>
     </div>
     <div class="col-md-6 mb-4">
@@ -89,11 +84,9 @@ permalink: /people/
       </div>
     </div>
   </div>
-  <h2>PhD Candidates</h2>
 
-  <!-- First row -->
+  <h2>PhD Candidates</h2>
   <div class="row text-center">
-    <!-- Person 1 -->
     <div class="col-md-6 mb-4">
       <img src="{{ 'assets/images/cantao.jpg' | relative_url }}" class="img-thumbnail rounded"
            style="width: 150px; height: 150px; object-fit: cover;" alt="cantao">
@@ -107,13 +100,12 @@ permalink: /people/
            style="width: 150px; height: 150px; object-fit: cover;" alt="anhdang">
       <div class="mt-2 p-2 rounded bg-light">
         <strong>Anh Dang</strong><br>
-        t.t.a.dang@uu.nl
         Dealing with Meaning Variation
       </div>
     </div>
   </div>
+
   <div class="row text-center">
-    <!-- Person 3 -->
     <div class="col-md-6 mb-4">
       <img src="{{ 'assets/images/nanli.jpg' | relative_url }}" class="img-thumbnail rounded"
            style="width: 150px; height: 150px; object-fit: cover;" alt="nan">
@@ -131,8 +123,8 @@ permalink: /people/
       </div>
     </div>
   </div>
+
   <div class="row text-center">
-    <!-- Person 3 -->
     <div class="col-md-6 mb-4">
       <img src="{{ 'assets/images/yupei.jpg' | relative_url }}" class="img-thumbnail rounded"
            style="width: 150px; height: 150px; object-fit: cover;" alt="yupei">
@@ -149,14 +141,15 @@ permalink: /people/
         Dealing with Meaning Variation
       </div>
     </div>
-  </div>  
+  </div>
+
   <div class="row text-center">
     <div class="col-md-6 mb-4">
       <img src="{{ 'assets/images/carlo.jpg' | relative_url }}" class="img-thumbnail rounded"
            style="width: 150px; height: 150px; object-fit: cover;" alt="carlo">
       <div class="mt-2 p-2 rounded bg-light">
         <strong>Eduardo Calò</strong><br>
-        Multimodal AI
+        Vision and Language Modelling
       </div>
     </div>
     <div class="col-md-6 mb-4">
@@ -167,8 +160,21 @@ permalink: /people/
         Dealing with Meaning Variation
       </div>
     </div>
-  </div>  
+  </div>
+
+  <div class="row text-center">
+    <div class="col-md-6 mb-4">
+      <img src="{{ 'assets/images/logo.jpg' | relative_url }}" class="img-thumbnail rounded"
+           style="width: 150px; height: 150px; object-fit: cover;" alt="carlo">
+      <div class="mt-2 p-2 rounded bg-light">
+        <strong>Yingjin Song</strong><br>
+        Vision and Language Modelling
+      </div>
+    </div>
+    <div class="col-md-6 mb-4">
+      <img src="{{ 'assets/images/elize.jpg' | relative_url }}" class="img-thumbnail rounded"
+           style="width: 150px; height: 150px; object-fit: cover;" alt="elize">
+      <div class="mt-2 p-2 rounded bg-light">
+        <strong>Elize Herrewijnen</strong><br>
+        NLP and Society
 </div>
-{::nomarkdown}
-</div>
-{:/}
