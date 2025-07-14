@@ -1,11 +1,10 @@
 ---
 layout: page
-title: ""
+title: People
 permalink: /people/
 ---
 
 <div class="container" style="margin-top: 60px; margin-bottom: 60px; padding-left: 200px; padding-right: 200px;">
-  <h3>People</h3>
 
   <h2>Professors</h2>
   <div class="row text-center">
