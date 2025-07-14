@@ -12,7 +12,9 @@ permalink: /people/
       <img src="{{ 'assets/images/albert.jpg' | relative_url }}" class="img-thumbnail rounded"
            style="width: 150px; height: 150px; object-fit: cover;" alt="albert">
       <div class="mt-2 p-2 rounded bg-light">
-        <strong>Albert Gatt</strong><br>
+        <strong>
+          <a href="https://albertgatt.github.io/" target="_blank">Albert Gatt</a>
+        </strong><br>
         Vision and Language Modelling
       </div>
     </div>
@@ -20,7 +22,9 @@ permalink: /people/
       <img src="{{ 'assets/images/dongnguyen.jpg' | relative_url }}" class="img-thumbnail rounded"
            style="width: 150px; height: 150px; object-fit: cover;" alt="dong">
       <div class="mt-2 p-2 rounded bg-light">
-        <strong>Dong Nguyen</strong><br>
+        <strong>
+          <a href="https://www.dongnguyen.nl/" target="_blank">Dong Nguyen</a>
+        </strong><br>
         NLP and Society
       </div>
     </div>
@@ -31,7 +35,9 @@ permalink: /people/
       <img src="{{ 'assets/images/massimo2.jpg' | relative_url }}" class="img-thumbnail rounded"
            style="width: 150px; height: 150px; object-fit: cover;" alt="massimo">
       <div class="mt-2 p-2 rounded bg-light">
-        <strong>Massimo Poesio</strong><br>
+        <strong>
+          <a href="https://sites.google.com/view/massimo-poesio/home" target="_blank">Massimo Poesio</a>
+        </strong><br>
         Dealing with Meaning Variation
       </div>
     </div>
