@@ -32,7 +32,6 @@ plugins:
 # A list of the pages to display in the navigation bar
 header_pages:
   - people.md
-  - research.md
   - publications.md
 
 # Exclude from processing.
