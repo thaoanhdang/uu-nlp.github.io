@@ -70,6 +70,8 @@ permalink: /people/
     </div>
   </div>
 
+---
+
   <h2>Postdocs</h2>
   <div class="row text-center">
     <div class="col-md-6 mb-4">
@@ -89,6 +91,9 @@ permalink: /people/
       </div>
     </div>
   </div>
+
+---
+
 
   <h2>PhD Candidates</h2>
   <div class="row text-center">
