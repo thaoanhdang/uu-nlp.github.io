@@ -101,11 +101,11 @@ permalink: /people/
       </div>
     </div>
     <div class="col-md-6 mb-4">
-      <img src="{{ 'assets/images/anhdang.jpg' | relative_url }}" class="img-thumbnail rounded"
-           style="width: 150px; height: 150px; object-fit: cover;" alt="anhdang">
+      <img src="{{ 'assets/images/ying.jpg' | relative_url }}" class="img-thumbnail rounded"
+           style="width: 150px; height: 150px; object-fit: cover;" alt="ying">
       <div class="mt-2 p-2 rounded bg-light">
-        <strong>Anh Dang</strong><br>
-        Dealing with Meaning Variation
+        <strong>Yingjin Song</strong><br>
+        Vision and Language Modelling
       </div>
     </div>
   </div>
@@ -169,11 +169,11 @@ permalink: /people/
 
   <div class="row text-center">
     <div class="col-md-6 mb-4">
-      <img src="{{ 'assets/images/hughmee.jpg' | relative_url }}" class="img-thumbnail rounded"
-           style="width: 150px; height: 150px; object-fit: cover;" alt="yingjin">
+      <img src="{{ 'assets/images/anhdang.jpg' | relative_url }}" class="img-thumbnail rounded"
+           style="width: 150px; height: 150px; object-fit: cover;" alt="anh">
       <div class="mt-2 p-2 rounded bg-light">
-        <strong>Yingjin Song</strong><br>
-        Vision and Language Modelling
+        <strong>Anh Dang</strong><br>
+        Dealing with Meaning Variation
       </div>
     </div>
     <div class="col-md-6 mb-4">
