@@ -187,6 +187,9 @@ permalink: /people/
       <div class="mt-2 p-2 rounded bg-light">
         <strong>Elize Herrewijnen</strong><br>
         NLP and Society
+      </div>
+    </div>
+  </div>
         
   <div class="row text-center">
     <div class="col-md-6 mb-4">
