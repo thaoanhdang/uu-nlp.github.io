@@ -206,4 +206,6 @@ permalink: /people/
       <div class="mt-2 p-2 rounded bg-light">
         <strong>David van Kuijk</strong><br>
         Vision and Language Modelling
+    </div>
+  </div>
 </div>
