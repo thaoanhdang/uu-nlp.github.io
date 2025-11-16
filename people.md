@@ -78,7 +78,7 @@ permalink: /people/
       <img src="{{ 'assets/images/ece.jpg' | relative_url }}" class="img-thumbnail rounded"
            style="width: 150px; height: 150px; object-fit: cover;" alt="ece">
       <div class="mt-2 p-2 rounded bg-light">
-        <strong>Ece Takmaz
+        <strong>
           <a href="https://ecekt.github.io/" target="_blank">Ece Takmaz</a>
         </strong><br>
         Vision and Language Modelling
