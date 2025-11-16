@@ -180,7 +180,7 @@ permalink: /people/
     <div class="col-md-6 mb-4">
       <img src="{{ 'assets/images/anhdang.jpg' | relative_url }}" class="img-thumbnail rounded"
            style="width: 150px; height: 150px; object-fit: cover;" alt="anh">
-      <div class="mt-2 p-2 rounded bg-light">
+      <div class="mt-2 p-2">
         <strong>Anh Dang</strong><br>
         Dealing with Meaning Variation
       </div>
