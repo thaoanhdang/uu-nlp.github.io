@@ -190,7 +190,8 @@ permalink: /people/
       </div>
     </div>
   </div>
-        
+
+
   <div class="row text-center">
     <div class="col-md-6 mb-4">
       <img src="{{ 'assets/images/menan.jpg' | relative_url }}" class="img-thumbnail rounded"
