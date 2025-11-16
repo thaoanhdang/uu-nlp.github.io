@@ -56,7 +56,7 @@ permalink: /people/
       <img src="{{ 'assets/images/pablo.jpg' | relative_url }}" class="img-thumbnail rounded"
            style="width: 150px; height: 150px; object-fit: cover;" alt="pablo">
       <div class="mt-2 p-2 rounded bg-light">
-        <strong>Dr. Pablo Mosteiro Romero</strong><br>
+        <strong>Pablo Mosteiro Romero</strong><br>
         Methodology and Statistics
       </div>
     </div>
@@ -78,7 +78,9 @@ permalink: /people/
       <img src="{{ 'assets/images/ece.jpg' | relative_url }}" class="img-thumbnail rounded"
            style="width: 150px; height: 150px; object-fit: cover;" alt="ece">
       <div class="mt-2 p-2 rounded bg-light">
-        <strong>Ece Takmaz</strong><br>
+        <strong>Ece Takmaz
+          <a href="https://ecekt.github.io/" target="_blank">Ece Takmaz</a>
+        </strong><br>
         Vision and Language Modelling
       </div>
     </div>
@@ -86,7 +88,9 @@ permalink: /people/
       <img src="{{ 'assets/images/anna.jpg' | relative_url }}" class="img-thumbnail rounded"
            style="width: 150px; height: 150px; object-fit: cover;" alt="anna">
       <div class="mt-2 p-2 rounded bg-light">
-        <strong>Anna Wegman</strong><br>
+        <strong>
+          <a href="https://annawegmann.github.io/" target="_blank">Anna Wegmann</a>
+        </strong><br>
         NLP and Society
       </div>
     </div>
