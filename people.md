@@ -6,7 +6,7 @@ permalink: /people/
 
 <div class="container" style="margin-top: 60px; margin-bottom: 60px; padding-left: 200px; padding-right: 200px;">
 
-  <h2>Professors</h2>
+  
   <div class="row text-center">
     <div class="col-md-6 mb-4">
       <img src="{{ 'assets/images/albert.jpg' | relative_url }}" class="img-thumbnail rounded"
@@ -16,6 +16,7 @@ permalink: /people/
           <a href="https://albertgatt.github.io/" target="_blank">Albert Gatt</a>
         </strong><br>
         Vision and Language Modelling
+        Natural Language Generation
       </div>
     </div>
     <div class="col-md-6 mb-4">
@@ -56,8 +57,8 @@ permalink: /people/
       <img src="{{ 'assets/images/pablo.jpg' | relative_url }}" class="img-thumbnail rounded"
            style="width: 150px; height: 150px; object-fit: cover;" alt="pablo">
       <div class="mt-2 p-2 rounded bg-light">
-        <strong>Pablo Mosteiro Romero</strong><br>
-        Methodology and Statistics
+        <strong>Kees van Deemter</strong><br>
+        Natural Language Generation
       </div>
     </div>
     <div class="col-md-6 mb-4">
@@ -72,7 +73,7 @@ permalink: /people/
 
 <div style="margin-top: 40px;"></div>
 
-  <h2>Postdocs</h2>
+  
   <div class="row text-center">
     <div class="col-md-6 mb-4">
       <img src="{{ 'assets/images/ece.jpg' | relative_url }}" class="img-thumbnail rounded"
@@ -99,7 +100,7 @@ permalink: /people/
 <div style="margin-top: 40px;"></div>
 
 
-  <h2>PhD Candidates</h2>
+
   <div class="row text-center">
     <div class="col-md-6 mb-4">
       <img src="{{ 'assets/images/cantao.jpg' | relative_url }}" class="img-thumbnail rounded"
