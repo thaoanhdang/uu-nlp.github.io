@@ -141,25 +141,6 @@ permalink: /people/
 
   <div class="row text-center">
     <div class="col-md-6 mb-4">
-      <img src="{{ 'assets/images/yupei.jpg' | relative_url }}" class="img-thumbnail rounded"
-           style="width: 150px; height: 150px; object-fit: cover;" alt="yupei">
-      <div class="mt-2 p-2 rounded bg-light">
-        <strong>Yupei Du</strong><br>
-        NLP and Society
-      </div>
-    </div>
-    <div class="col-md-6 mb-4">
-      <img src="{{ 'assets/images/shane.jpg' | relative_url }}" class="img-thumbnail rounded"
-           style="width: 150px; height: 150px; object-fit: cover;" alt="shane">
-      <div class="mt-2 p-2 rounded bg-light">
-        <strong>Shane Kaszefski</strong><br>
-        Dealing with Meaning Variation
-      </div>
-    </div>
-  </div>
-
-  <div class="row text-center">
-    <div class="col-md-6 mb-4">
       <img src="{{ 'assets/images/carlo.jpg' | relative_url }}" class="img-thumbnail rounded"
            style="width: 150px; height: 150px; object-fit: cover;" alt="carlo">
       <div class="mt-2 p-2 rounded bg-light">
