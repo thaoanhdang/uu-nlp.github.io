@@ -15,7 +15,7 @@ permalink: /people/
         <strong>
           <a href="https://albertgatt.github.io/" target="_blank">Albert Gatt</a>
         </strong><br>
-        Vision and Language Modelling
+        Vision and Language Modelling<br>
         Natural Language Generation
       </div>
     </div>
