@@ -54,8 +54,8 @@ permalink: /people/
 
   <div class="row text-center">
     <div class="col-md-6 mb-4">
-      <img src="{{ 'assets/images/pablo.jpg' | relative_url }}" class="img-thumbnail rounded"
-           style="width: 150px; height: 150px; object-fit: cover;" alt="pablo">
+      <img src="{{ 'assets/images/kees.jpg' | relative_url }}" class="img-thumbnail rounded"
+           style="width: 150px; height: 150px; object-fit: cover;" alt="kees">
       <div class="mt-2 p-2 rounded bg-light">
         <strong>Kees van Deemter</strong><br>
         Natural Language Generation
