@@ -196,8 +196,7 @@ permalink: /people/
     </div>
   </div>
 
-
-  <div class="row text-center">
+   <div class="row text-center">
     <div class="col-md-6 mb-4">
       <img src="{{ 'assets/images/menan.jpg' | relative_url }}" class="img-thumbnail rounded"
            style="width: 150px; height: 150px; object-fit: cover;" alt="anh">
@@ -212,6 +211,6 @@ permalink: /people/
       <div class="mt-2 p-2 rounded bg-light">
         <strong>David van Kuijk</strong><br>
         Vision and Language Modelling
+      </div>
     </div>
   </div>
-</div>
