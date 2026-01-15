@@ -12,12 +12,10 @@ title: ""
      style="width: 120px; height: 120px; object-fit: contain;">
 
 ## Natural Language Processing Group
-
-<hr style="margin: 24px 0;">
-
 ### Utrecht University 
 
 
+<hr style="margin: 24px 0;">
 
 ## About Us
 
