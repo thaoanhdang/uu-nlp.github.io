@@ -15,7 +15,7 @@ permalink: /people/
         <strong>
           <a href="https://albertgatt.github.io/" target="_blank">Albert Gatt</a>
         </strong><br>
-        Vision and Language Modelling<br>
+        Multimodal NLP<br>
         Natural Language Generation
       </div>
     </div>
@@ -47,7 +47,7 @@ permalink: /people/
            style="width: 150px; height: 150px; object-fit: cover;" alt="marijn">
       <div class="mt-2 p-2 rounded bg-light">
         <strong>Marijn Schraagen</strong><br>
-        Vision and Language Modelling
+        
       </div>
     </div>
   </div>
@@ -66,7 +66,7 @@ permalink: /people/
            style="width: 150px; height: 150px; object-fit: cover;" alt="marijn">
       <div class="mt-2 p-2 rounded bg-light">
         <strong>Gerard Vreeswijk</strong><br>
-        Vision and Language Modelling
+        
       </div>
     </div>
   </div>
@@ -82,7 +82,7 @@ permalink: /people/
         <strong>
           <a href="https://ecekt.github.io/" target="_blank">Ece Takmaz</a>
         </strong><br>
-        Vision and Language Modelling
+        Multimodal NLP
       </div>
     </div>
     <div class="col-md-6 mb-4">
@@ -115,7 +115,7 @@ permalink: /people/
            style="width: 150px; height: 150px; object-fit: cover;" alt="ying">
       <div class="mt-2 p-2 rounded bg-light">
         <strong>Yingjin Song</strong><br>
-        Vision and Language Modelling
+        Multimodal NLP
       </div>
     </div>
   </div>
@@ -126,7 +126,8 @@ permalink: /people/
            style="width: 150px; height: 150px; object-fit: cover;" alt="nan">
       <div class="mt-2 p-2 rounded bg-light">
         <strong>Nan Li</strong><br>
-        Dealing with Meaning Variation
+        Dealing with Meaning Variation<br>
+        Multimodal NLP
       </div>
     </div>
     <div class="col-md-6 mb-4">
@@ -134,7 +135,8 @@ permalink: /people/
            style="width: 150px; height: 150px; object-fit: cover;" alt="hughmee">
       <div class="mt-2 p-2 rounded bg-light">
         <strong>Hugh Mee Wong</strong><br>
-        Dealing with Meaning Variation
+        Dealing with Meaning Variation<br>
+        Multimodal NLP
       </div>
     </div>
   </div>
@@ -145,7 +147,7 @@ permalink: /people/
            style="width: 150px; height: 150px; object-fit: cover;" alt="carlo">
       <div class="mt-2 p-2 rounded bg-light">
         <strong>Eduardo Calò</strong><br>
-        Vision and Language Modelling
+        Natural Language Generation
       </div>
     </div>
     <div class="col-md-6 mb-4">
@@ -212,7 +214,26 @@ permalink: /people/
     <ul>
       <li>Filippo Merlo</li>
       <li>Iván Martínez Murillo</li>
-      <li></li>
+      
+    </ul>
+  </div>
+</div>
+
+<h3>Former Group Members</h3>
+
+<div class="row">
+  <div class="col-md-6">
+    <ul>
+      <li>Pablo Mosteiro</li>
+      <li>Guanyi Chen</li>
+      <li>Yupei Du</li>
+    </ul>
+  </div>
+  <div class="col-md-6">
+    <ul>
+      <li>Qixiang Fang</li>
+      <li>Fahime Sameh</li>
+      
     </ul>
   </div>
 </div>
