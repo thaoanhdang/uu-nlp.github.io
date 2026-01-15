@@ -195,3 +195,24 @@ permalink: /people/
       </div>
     </div>
   </div>
+
+  <div style="margin-top: 60px;"></div>
+
+<h3>Visiting Members</h3>
+
+<div class="row">
+  <div class="col-md-6">
+    <ul>
+      <li>Soheila Amiri</li>
+      <li>Davide Testa</li>
+      <li>Melody Sepahpour-Fard</li>
+    </ul>
+  </div>
+  <div class="col-md-6">
+    <ul>
+      <li>Filippo Merlo</li>
+      <li>Iván Martínez Murillo</li>
+      <li></li>
+    </ul>
+  </div>
+</div>
