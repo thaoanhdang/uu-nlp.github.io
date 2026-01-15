@@ -8,10 +8,10 @@ permalink: /people/
 
   
   <div class="row text-center">
-    <div class="col-md-6 mb-4">
       <img src="{{ 'assets/images/albert.jpg' | relative_url }}" class="img-thumbnail rounded"
            style="width: 150px; height: 150px; object-fit: cover;" alt="albert">
-      <div class="mt-2 p-2 rounded bg-light">
+      <div class="mt-2 p-2 rounded bg-light"
+      style="width: 260px; margin: 0 auto;">
         <strong>
           <a href="https://albertgatt.github.io/" target="_blank">Albert Gatt</a>
         </strong><br>
