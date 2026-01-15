@@ -6,10 +6,15 @@ title: ""
 <div class="container" style="margin-top: 60px; margin-bottom: 60px; padding-left: 200px; padding-right: 200px;">
 {:/}
 
+<img src="{{ 'assets/images/logo_nlp.png' | relative_url }}"
+     class="img-thumbnail"
+     alt="logo"
+     style="width: 120px; height: 120px; object-fit: contain;">
+
 ## Natural Language Processing Group
 ### Utrecht University 
 
-<img src="{{ 'assets/images/logo.png' | relative_url }}" class="img-thumbnail" alt="logo">
+
 
 ## About Us
 
@@ -39,7 +44,7 @@ In our research, we collaborate with a broad network of researchers, including c
 
 
 
-## Contact
+
 **prof. dr. A. (Albert) Gatt**<br>
 Professor<br>
 Programme Director<br>
