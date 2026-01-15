@@ -15,7 +15,7 @@ title: ""
 ### Utrecht University 
 
 
-<hr style="margin: 24px 0;">
+<hr style="margin: 28px 0;">
 
 ## About Us
 
@@ -28,18 +28,21 @@ Methods to model the interface between language and speech with other modalities
 The challenges of [meaning variation](https://sites.google.com/view/dealingwithmeaningvariation/home) arising from subjective bias, ambiguity and vagueness.
 In our research, we collaborate with a broad network of researchers, including colleagues in [Humanities](https://www.uu.nl/onderzoek/institute-for-language-sciences) and the [Social Sciences](https://nlp.sites.uu.nl/). [UU-NLP] forms part of [NLP@U](https://www.uu.nl/en/research/applied-data-science/special-interest-group-text-mining), the UU Joint Special Interest Group in Natural Language Processing.
 
-
+<hr style="margin: 28px 0;">
 
 ## News
 
-* We're at ACL 2025 in Vienna!
+* We're at ACL 2025 in Vienna!*
 
+<hr style="margin: 28px 0;">
 
 ## Research Groups
 
 * [NLP and Society](https://nlpsoc.github.io/)
 * [Dealing with Meaning Variation](https://sites.google.com/view/dealingwithmeaningvariation/home)
 * Vision and Language Modelling
+
+<hr style="margin: 28px 0;">
 
 ## Events
 
