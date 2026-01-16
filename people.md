@@ -143,6 +143,25 @@ permalink: /people/
 
   <div class="row text-center">
     <div class="col-md-6 mb-4">
+      <img src="{{ 'assets/images/sanne.jpg' | relative_url }}" class="img-thumbnail rounded"
+           style="width: 150px; height: 150px; object-fit: cover;" alt="sanne">
+      <div class="mt-2 p-2 rounded bg-light">
+        <strong>Sanne Hoekens</strong><br>
+        Dealing with Meaning Variation
+      </div>
+    </div>
+    <div class="col-md-6 mb-4">
+      <img src="{{ 'assets/images/esther.jpg' | relative_url }}" class="img-thumbnail rounded"
+           style="width: 150px; height: 150px; object-fit: cover;" alt="hughmee">
+      <div class="mt-2 p-2 rounded bg-light">
+        <strong>Esther Ploeger</strong><br>
+        NLP and Society
+      </div>
+    </div>
+  </div>
+
+  <div class="row text-center">
+    <div class="col-md-6 mb-4">
       <img src="{{ 'assets/images/carlo.jpg' | relative_url }}" class="img-thumbnail rounded"
            style="width: 150px; height: 150px; object-fit: cover;" alt="carlo">
       <div class="mt-2 p-2 rounded bg-light">
