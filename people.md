@@ -7,27 +7,29 @@ permalink: /people/
 <div class="container" style="margin-top: 60px; margin-bottom: 60px; padding-left: 200px; padding-right: 200px;">
   
   <div class="row text-center">
-      <img src="{{ 'assets/images/albert.jpg' | relative_url }}" class="img-thumbnail rounded"
-           style="width: 150px; height: 150px; object-fit: cover;" alt="albert">
-      <div class="mt-2 p-2 rounded bg-light">
-        <strong>
-          <a href="https://albertgatt.github.io/" target="_blank">Albert Gatt</a>
-        </strong><br>
-        Multimodal NLP<br>
-        Natural Language Generation
-      </div>
-    </div>
-    <div class="col-md-6 mb-4">
-      <img src="{{ 'assets/images/dongnguyen.jpg' | relative_url }}" class="img-thumbnail rounded"
-           style="width: 150px; height: 150px; object-fit: cover;" alt="dong">
-      <div class="mt-2 p-2 rounded bg-light">
-        <strong>
-          <a href="https://www.dongnguyen.nl/" target="_blank">Dong Nguyen</a>
-        </strong><br>
-        NLP and Society
-      </div>
+  <div class="col-md-6 mb-4">
+    <img src="{{ 'assets/images/albert.jpg' | relative_url }}" class="img-thumbnail rounded"
+         style="width: 150px; height: 150px; object-fit: cover;" alt="albert">
+    <div class="mt-2 p-2 rounded bg-light">
+      <strong>
+        <a href="https://albertgatt.github.io/" target="_blank">Albert Gatt</a>
+      </strong><br>
+      Multimodal NLP<br>
+      Natural Language Generation
     </div>
   </div>
+
+  <div class="col-md-6 mb-4">
+    <img src="{{ 'assets/images/dongnguyen.jpg' | relative_url }}" class="img-thumbnail rounded"
+         style="width: 150px; height: 150px; object-fit: cover;" alt="dong">
+    <div class="mt-2 p-2 rounded bg-light">
+      <strong>
+        <a href="https://www.dongnguyen.nl/" target="_blank">Dong Nguyen</a>
+      </strong><br>
+      NLP and Society
+    </div>
+  </div>
+</div>
 
   <div style="margin-top: 40px;"></div>
 
