@@ -212,7 +212,8 @@ permalink: /people/
            style="width: 150px; height: 150px; object-fit: cover;" alt="elize">
       <div class="mt-2 p-2 rounded bg-light">
         <strong>David van Kuijk</strong><br>
-        Vision and Language Modelling
+        Responsible AI<br>
+        Natural Language Generation
       </div>
     </div>
   </div>
