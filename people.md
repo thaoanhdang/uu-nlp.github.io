@@ -29,6 +29,8 @@ permalink: /people/
     </div>
   </div>
 
+  <div style="margin-top: 40px;"></div>
+
   <div class="row text-center">
     <div class="col-md-6 mb-4">
       <img src="{{ 'assets/images/massimo2.jpg' | relative_url }}" class="img-thumbnail rounded"
