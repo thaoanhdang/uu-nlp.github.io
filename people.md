@@ -5,7 +5,6 @@ permalink: /people/
 ---
 
 <div class="container" style="margin-top: 60px; margin-bottom: 60px; padding-left: 200px; padding-right: 200px;">
-
   
   <div class="row text-center">
       <img src="{{ 'assets/images/albert.jpg' | relative_url }}" class="img-thumbnail rounded"
